@@ -15,8 +15,6 @@ CREATE TABLE employees
 	notes text
 );
 
---вывод таблиц
-SELECT * FROM employees
 
 CREATE TABLE orders
 (
